@@ -1,3 +1,5 @@
 data
 env
 .history
+notebooks/.ipynb_checkpoints
+notebooks/*/.ipynb_checkpoints
